@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36e2d05e-7ddd-4de2-a148-187e9e820494" name="Changes" comment="Add class MyArrayList">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/Administrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/BookCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/BookStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/intensiveHW1/ArrayList_NikitaDoronin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/intensiveHW1/IntensiveList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework3/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework3/MyArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +19,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -55,24 +49,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BattleGround.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/AstonHomeworks/src/main/java/ru/yandex/practicum/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BattleGround.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/AstonHomeworks/src/main/java/ru/yandex/practicum/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,6 +85,7 @@
       <updated>1730547556541</updated>
       <workItem from="1730547557533" duration="18426000" />
       <workItem from="1731746048811" duration="8072000" />
+      <workItem from="1734570239223" duration="826000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
